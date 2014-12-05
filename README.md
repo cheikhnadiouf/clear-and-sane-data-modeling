@@ -42,3 +42,5 @@ About the official handbook :
 
   "Clear and Sane engineering" by Cheikhna Diouf
   You can read more about it here : http://www.systemaker.com/clear-and-sane-engineering
+  
+You can also join our social facebook fan page : https://www.facebook.com/clear.and.sane.engineering
