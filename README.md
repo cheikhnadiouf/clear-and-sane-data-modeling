@@ -2,7 +2,7 @@ clear-and-sane-framework
 ========================
 
 The official "Clear and Sane" framework for rapid data modeling, from the book "Clear and Sane engineering" (by Cheikhna Diouf) , a lightweight alternative to UML-like diagrams for engineers and technicians who have to collaborate with non-technical teams and those who have to create user guides.
-http://www.systemaker.com/clear-and-sane-engineering
+http://www.clear-and-sane-engineering.org
 
 CLEAR AND SANE FRAMEWORK - version 0.1.0
 Powered by Systemaker.com
@@ -41,6 +41,7 @@ About Diagramming tools used :
 About the official handbook :
 
   "Clear and Sane engineering" by Cheikhna Diouf
+  
   You can read more about it here : http://www.systemaker.com/clear-and-sane-engineering
   
 You can also join our social facebook fan page : https://www.facebook.com/clear.and.sane.engineering
