@@ -12,7 +12,6 @@ Powered by Systemaker.com
   The C&S framework is under GNU General Public License and GNU Free Documentation License.
 
 Resources list : 
-Download link : http://www.systemaker.com/clear-and-sane-engineering
 
   - Symbols collection : Data boxes, Relation nodes and UI elements
   - The Clear & Sane logo 
