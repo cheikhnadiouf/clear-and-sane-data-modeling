@@ -32,9 +32,8 @@ About Diagramming tools used :
   You can still export them in other formats but the compatibility will largely depend on your targeted extensions and your O.S. platforms. 
   To ensure maximum compatibility with your own diagramming softwares, this symbols collection (based on simple boxes and connectors) can be easily replicated in the native formats of your chosen softwares like Microsoft Visio, Smartdraw, Edraw or even vector softwares like Adobe illustrator or Inkscape.
 
-  - Libre office :  
-  You can  download libre office (version "still" for complete compatibility , not "fresh" version) and use his diagramming editor tool : Libre Office Drawing  : http://www.libreoffice.org/download/libreoffice-still/ 
-  - Screencasts Video Maker like EZVID : http://www.ezvid.com/ 
+  - Libre office :  You can  download libre office (use version 4 for complete compatibility)  and use his diagramming editor tool : Libre Office Drawing  : http://libreoffice.org
+  - Screencasts Video Maker  like Youtube movie maker : http://makeyoutubevideo.com 
   - Graphic editor with screen captures capability (for png and jpg files) like Adobe Photoshop, SnagIt or Gimp 
 
 About the official handbook :
