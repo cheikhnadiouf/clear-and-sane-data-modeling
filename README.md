@@ -1,4 +1,4 @@
-Alert: Sadly, I don't have time to maintain this but we have now a new edition available at 
+Alert: Sadly, I don't have time to maintain this but we have now a new edition 2020 available at 
 https://www.amazon.com/dp/B086ML4PGW/ref=cm_sw_r_sms_awdb_t1_Z6oHEbGMPYFXF. 
 
 
